@@ -14,10 +14,10 @@ Then, the number of retiring employees, and identity of employees who are eligib
   * The duplicate rows were removed from the table and the table was modified to hold only the most recent employee titles. Employees that have left the company were also removed and therefore the employee IDs are not sequential in this table.
   <img width="354" alt="Screen Shot 2022-08-28 at 12 33 19 PM" src="https://user-images.githubusercontent.com/106785377/187089388-13d6508b-1b20-4433-bcf6-02e365b7d745.png">
 
-  * Number of retiring employees by title
+  * A query was written to retrieve the number of employees by their most recent job title who are about to retire. Only 2 managers are about to retire. Senior engineer and senior staff titles contain the majority of employees that are about to retire. 
   <img width="180" alt="Screen Shot 2022-08-28 at 12 32 47 PM" src="https://user-images.githubusercontent.com/106785377/187089370-22574a36-c091-43a8-97e3-848b5c4f640f.png">
 
-  * A query was written to retrieve the number of employees by their most recent job title who are about to retire. Only 2 managers are about to retire. Senior engineer and senior staff titles contain the majority of employees that are about to retire. 
+  * 
   <img width="572" alt="Screen Shot 2022-08-28 at 12 36 11 PM" src="https://user-images.githubusercontent.com/106785377/187089497-8db59ba5-7e0f-4d79-bdfb-8be720fc4ce5.png">
 
 
