@@ -8,8 +8,15 @@ Then, the number of retiring employees, and identity of employees who are eligib
 
 ## Results: Provide a bulleted list with four major points from the two analysis deliverables. Use images as support where needed.
 
-  * 1
-  * 2
+  * Retirement titles
+  [retirement_titles.csv](https://github.com/Alexi-Micinski/Pewlett-Hackard-Analysis/files/9440242/retirement_titles.csv)
+
+  * Unique titles
+  [unique_titles.csv](https://github.com/Alexi-Micinski/Pewlett-Hackard-Analysis/files/9440243/unique_titles.csv)
+
+  * Number of retiring employees by title
+  [retiring_titles.csv](https://github.com/Alexi-Micinski/Pewlett-Hackard-Analysis/files/9440244/retiring_titles.csv)
+
   * 3
   * 4
 
