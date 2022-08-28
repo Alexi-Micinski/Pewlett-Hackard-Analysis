@@ -11,7 +11,7 @@ Then, the number of retiring employees, and identity of employees who are eligib
   * A table was create for employee number, name, title, and years of employment. It should be noted that there are duplicate entries for employees that have switched titles during their employment.
   <img width="495" alt="Screen Shot 2022-08-28 at 12 35 00 PM" src="https://user-images.githubusercontent.com/106785377/187089448-1cf89d81-5d0d-496b-bee6-7afe36a0b8db.png">
 
-  * Unique titles
+  * The duplicate rows were removed from the table and the table was modified to hold only the most recent employee titles. Employees that have left the company were also removed and therefore the employee IDs are not sequential in this table.
   <img width="354" alt="Screen Shot 2022-08-28 at 12 33 19 PM" src="https://user-images.githubusercontent.com/106785377/187089388-13d6508b-1b20-4433-bcf6-02e365b7d745.png">
 
   * Number of retiring employees by title
