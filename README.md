@@ -17,7 +17,7 @@ Then, the number of retiring employees, and identity of employees who are eligib
   * A query was written to retrieve the number of employees by their most recent job title who are about to retire. Only 2 managers are about to retire. Senior engineer and senior staff titles contain the majority of employees that are about to retire. 
   <img width="180" alt="Screen Shot 2022-08-28 at 12 32 47 PM" src="https://user-images.githubusercontent.com/106785377/187089370-22574a36-c091-43a8-97e3-848b5c4f640f.png">
 
-  * 
+  * A mentorship-eligibility table was created to hold the current employees who are eligible to participate in a mentorship program. 499,459 employees are eligible.
   <img width="572" alt="Screen Shot 2022-08-28 at 12 36 11 PM" src="https://user-images.githubusercontent.com/106785377/187089497-8db59ba5-7e0f-4d79-bdfb-8be720fc4ce5.png">
 
 
