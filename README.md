@@ -9,13 +9,16 @@ Then, the number of retiring employees, and identity of employees who are eligib
 ## Results: Provide a bulleted list with four major points from the two analysis deliverables. Use images as support where needed.
 
   * Retirement titles
-  [retirement_titles.csv](https://github.com/Alexi-Micinski/Pewlett-Hackard-Analysis/files/9440242/retirement_titles.csv)
+  <img width="179" alt="Screen Shot 2022-08-28 at 12 33 42 PM" src="https://user-images.githubusercontent.com/106785377/187089409-f6fe68d6-0ebf-4679-a4f9-fd2c4681ddbd.png">
+
 
   * Unique titles
-  [unique_titles.csv](https://github.com/Alexi-Micinski/Pewlett-Hackard-Analysis/files/9440243/unique_titles.csv)
+  <img width="354" alt="Screen Shot 2022-08-28 at 12 33 19 PM" src="https://user-images.githubusercontent.com/106785377/187089388-13d6508b-1b20-4433-bcf6-02e365b7d745.png">
+
 
   * Number of retiring employees by title
-  [retiring_titles.csv](https://github.com/Alexi-Micinski/Pewlett-Hackard-Analysis/files/9440244/retiring_titles.csv)
+  <img width="180" alt="Screen Shot 2022-08-28 at 12 32 47 PM" src="https://user-images.githubusercontent.com/106785377/187089370-22574a36-c091-43a8-97e3-848b5c4f640f.png">
+
 
   * 3
   * 4
