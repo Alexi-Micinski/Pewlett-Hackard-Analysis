@@ -1,6 +1,6 @@
 # Pewlett-Hackard-Analysis
 
-## Overview: Explain the purpose of this analysis.
+## Overview:
 
 Pewlett Hackard is looking ahead to fill positions after employees retire. There is a need to know who will be retiring and how many positions will need to be filled. This will be done by generating a list of all employees who are eligible for the retirement package and building an employee database from csv files.
 
