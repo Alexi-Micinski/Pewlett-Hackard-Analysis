@@ -8,7 +8,7 @@ Then, the number of retiring employees, and identity of employees who are eligib
 
 ## Results: Provide a bulleted list with four major points from the two analysis deliverables. Use images as support where needed.
 
-  * Retirement titles
+  * A table was create for employee number, name, title, and years of employment. It should be noted that there are duplicate entries for employees that have switched titles during their employment.
   <img width="495" alt="Screen Shot 2022-08-28 at 12 35 00 PM" src="https://user-images.githubusercontent.com/106785377/187089448-1cf89d81-5d0d-496b-bee6-7afe36a0b8db.png">
 
   * Unique titles
