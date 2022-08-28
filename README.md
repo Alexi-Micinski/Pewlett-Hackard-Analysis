@@ -23,10 +23,29 @@ Then, the number of retiring employees, and identity of employees who are eligib
 
 ## Summary: Provide high-level responses to the following questions, then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
   * 72,458 roles will need to be filled as the "silver tsunami" begins to make an impact.
+
+  ~~~
+  SELECT SUM(retiring_titles.count) 
+  FROM retiring_titles;
+  ~~~
   
   * There are enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees. There are 1,549 
 employees that are eligable for the mentorship program and 72,458 retirement ready employees to mentor the incoming generation.
 
-<img width="173" alt="Screen Shot 2022-08-28 at 3 33 29 PM" src="https://user-images.githubusercontent.com/106785377/187095371-7233f924-7066-43c8-b96b-141007b747c8.png"> <img width="177" alt="Screen Shot 2022-08-28 at 3 31 12 PM" src="https://user-images.githubusercontent.com/106785377/187095301-bdceb2a4-30f5-4488-8e27-369a49d3c789.png">
+~~~ 
+-- Count membership eligibility
+SELECT COUNT(me.title), me.title
+INTO mentorship_titles
+FROM mentorship_eligibilty as me
+GROUP BY me.title
+ORDER BY count DESC;
+
+SELECT * FROM mentorship_titles;
+
+SELECT SUM(mentorship_titles.count) 
+FROM mentorship_titles;
+~~~
+
+<img width="177" alt="Screen Shot 2022-08-28 at 3 31 12 PM" src="https://user-images.githubusercontent.com/106785377/187095301-bdceb2a4-30f5-4488-8e27-369a49d3c789.png">
 
 
