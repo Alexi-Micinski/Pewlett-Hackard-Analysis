@@ -21,7 +21,8 @@ Then, the number of retiring employees, and identity of employees who are eligib
   <img width="572" alt="Screen Shot 2022-08-28 at 12 36 11 PM" src="https://user-images.githubusercontent.com/106785377/187089497-8db59ba5-7e0f-4d79-bdfb-8be720fc4ce5.png">
 
 
-## Summary: Provide high-level responses to the following questions, then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
+## Summary:
+
   * 72,458 roles will need to be filled as the "silver tsunami" begins to make an impact.
 
   ~~~
