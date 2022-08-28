@@ -9,7 +9,8 @@ Then, the number of retiring employees, and identity of employees who are eligib
 ## Results: Provide a bulleted list with four major points from the two analysis deliverables. Use images as support where needed.
 
   * Retirement titles
-  <img width="179" alt="Screen Shot 2022-08-28 at 12 33 42 PM" src="https://user-images.githubusercontent.com/106785377/187089409-f6fe68d6-0ebf-4679-a4f9-fd2c4681ddbd.png">
+  <img width="495" alt="Screen Shot 2022-08-28 at 12 35 00 PM" src="https://user-images.githubusercontent.com/106785377/187089448-1cf89d81-5d0d-496b-bee6-7afe36a0b8db.png">
+
 
 
   * Unique titles
